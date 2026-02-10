@@ -1,0 +1,1 @@
+import{r as e}from"./chunk-BZC-4c17.js";import{g as m}from"./chunk-BeBo0mOE.js";const s="div",p=e.forwardRef(({tag:o,...r},t)=>{const a=m(r)??o??s;return e.createElement(a,{...r,ref:t})});p.displayName="Text";export{p as n};
